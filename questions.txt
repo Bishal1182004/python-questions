@@ -1,0 +1,64 @@
+Question 1
+Given an inteeger array of size n, task is to rotate the array, elements to the right by d positions.
+
+Question 2
+givven an array of integers and a index position d, rotate the array one elements from dth position to the end
+
+
+Question 3
+in a party of N people each person is denoted by an integer, couples are presented by the same number. find out the only single person at the party of couple
+
+test case
+
+1 2 3 2 1 output 3
+
+
+Question 4
+You have to write a function that will accept a string which length is "len", the string has some "#", in it. You
+have to move all the hashes to the front of the string and return the whole string back and print it
+TEST CASE:
+> move#hash#to#the#front
+output: ####movehashtothefront
+
+Question 5
+There are n houses built in a line, each of which contains some money. A robber wants
+to steal money from the houses but he cant steal from two consecutive/adjacent houses.
+the task is to find the maximum amount of money which can be stolen
+
+test case:
+A 100 B 200 C 300 D 400 E 500 F 600
+
+
+Given an array arr[] of n integers and a target value, the task is to find weather there is a pair of elements 
+in the array whhose sum is equal to the target.
+
+arr[] = [0, -1, 2, -3, 1]
+
+write a python code to rotate a matrix by 90 degree
+
+question 7
+Consider a string , S , that is a series of character, each followed by its frequency as an integer
+the string is not compresed correctly, so there may be multiple occurances of the same character. A propery
+of ea compressed string will consist of one instanc ch character in alphabetical order followed by total count 
+of that character withing the string 
+
+
+Question 8
+N is given generate and print pattern, based on n.
+
+i) for each row starting from first print numbers in decending orders from n to 1
+ii) each nbumber in a row is repeated aas many times as the current row index.
+iii) insted of printing each row on a new line, seperate the rows with -1
+iv) insted of a new line at the end of each row, print -1 to indicate row seperation
+
+after printing ther entitre pattern, end the output with -1
+
+
+question 9
+implement stack and its operation(push,pop) using java .
+
+Question 10
+desing an interface in java that has two methods push and pop ,inherit  it and thenoveride it.
+
+Question 11
+given x find the largest jumping number smaller or equal to x.
